@@ -1,0 +1,201 @@
+header {background-color: black;
+  color:white; font-weight: 600; font-size: larger;
+}
+
+nav ul li {padding: 18px;}
+
+ul li a {color: white;}
+
+
+
+
+.dropdown-menu  a {
+    color: black;
+    padding: 20px 60px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-menu a:hover {background-color: black; color: white;}
+
+#title{color: white;}
+
+#bottonemenu{color: black; background-color: #E9E7E9;}
+
+
+
+
+body{font-family: 'Titillium Web', sans-serif;}
+
+h1{text-align: center;
+  
+   padding bottom: 2%; padding-top: 20%;
+  color: black;
+  font-weight: 600;}
+
+  #descrizione {text-align: center; font-family: 'Playfair Display', serif; font-weight: 400; font-size: 20;
+  padding-bottom: 15%; 
+  padding-top: 15%;}
+
+h5 {
+  color: white;
+    font-size: 600%;
+  font-weight: 50%;
+  line-;
+  text-align: center; 
+}
+
+
+
+
+#chat{width: 100%; height: auto; margin-top: 20%; margin-bottom: 15%; margin-left: 12%;
+                 background-position: center;
+                 padding-bottom: 20px;}
+
+
+
+
+
+h2{text-align: center;
+  padding: 2%;
+  background-color: black;
+  color: white;
+  font-weight: 600;}
+
+.card{margin-left: 18%;margin-top: 5%;}
+ 
+.card-text{font-weight: 400;}
+.card-title{font-size: 25px;}
+
+
+
+#footer{margin-top: 2%;}
+
+#social{margin-left: 43.5%; margin-bottom: 2%;}
+
+footer section p{font-weight: 600;}
+
+
+#colore{background-color: #E9E7E9;}
+
+
+
+#artisticoncerti{background-color: black; color: white;}
+
+#titolo{margin-top: 6%;}
+#imaginedragons{margin-top: 10%;}
+#button1{margin-top: 15%;}
+
+
+#artisticoncerti2 {background-color:black; color:white;}
+#titolo2{margin-top: 6%;}
+#mengonimilano{margin-top: 1%; margin-bottom: 5%;}
+
+#artisticoncerti3 {background-color:black; color:white;}
+#titolo3{margin-top: 6%;}
+#salmo{margin-top: 8%;}
+#button2{margin-top: 17%;}
+
+#artisticoncerti4 {background-color:black; color:white;}
+#titolo4{margin-top: 6%;}
+
+#artisticoncerti5{background-color:black; color:white;}
+#titolo5{margin-top: 6%;}
+#justinbieber{margin-top: 20%;}
+#button3{margin-top:30%;}
+
+#artisticoncerti6{background-color:black; color:white;}
+#titolo6{margin-top: 6%;}
+
+#footer1{margin-top: 1%;}
+
+
+
+
+#mappabologna{margin-top: 10%; margin-left: 5%;}
+
+
+#nero{ background-color: black; color: white;}
+#nero2{ background-color: black; color: white;}
+#nero3{ background-color: black; color: white;}
+#nero4{ background-color: black; color: white;}
+#nero5{ background-color: black; color: white;}
+#nero6{ background-color: black; color: white;}
+
+#testo1{margin-top: 13%;}
+
+#testo2{margin-top: 10%;}
+
+#testo3{margin-top: 13%;}
+
+#testo4{margin-top: 5%;}
+
+
+
+
+
+
+#testomilano{margin-top: 10%;}
+
+#testomilano2{margin-top: 8%;}
+
+#testomilano3{margin-top: 15%;}
+
+#testomilano4{margin-top: 10%;}
+
+#testomilano5{margin-top: 10%;}
+
+#testomilano6{margin-top: 10%;}
+
+
+
+#mappalcatraz{margin-left: 15%; margin-top: 15%; margin-bottom: 5%;}
+#sansiro{margin-left: 8%; margin-top: 15%; margin-bottom: 5%;}
+#mediolanum{margin-top: 15%; margin-bottom: 5%;}
+
+
+
+#roma1{margin-top: 15%;}
+#roma2{margin-top: 10%;}
+#roma3{margin-top: 5%;}
+#roma4{margin-top: 8%;}
+#roma5{margin-top: 12%;}
+
+
+#olimpico{margin-left: 15%; margin-top: 20%; margin-bottom: 10%;}
+#palazzetto{margin-left: 8%; margin-top: 20%; margin-bottom: 10%;}
+#auditorium{margin-top: 20%; margin-bottom: 5%;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px; 
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical
+}
+
+
+input[type=submit] {
+  background-color: blue;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+  background-color: red;
+}
+
+.container{padding: 20px;}
+
+#riquadro{  background-color: black;
+  color:white;}
+
+.box{background-color: white;}
+
